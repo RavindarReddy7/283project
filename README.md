@@ -1,5 +1,6 @@
 # 283project
 1.Install git using command line
+
 2.Fork the repository from torvex/linux into own repository and clone the same into local repository.
 3.Now build the linux kernel code using the commands [this step will help in next assignment but not related to this assignment]
 make -j [number of cpu] modules
