@@ -20,6 +20,7 @@ After this we will be getting the cmpe283-1.ko file.
 7.Now to view the output need to run dmesg command.
 
 The desired output will look like this.
+![image](Assignment-1_pic1.jpeg)
 
 8.Finally commit the changes to the git using
 
