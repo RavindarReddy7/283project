@@ -27,6 +27,8 @@ The desired output will look like this.
 
 git add folderName
 
+git push origin main
+
 git commit -m "commit message"
 
-git push
+
